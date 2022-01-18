@@ -14,7 +14,7 @@
 	<img src="log.jpg" class="log"  >
 	<br>
 	<h4 class="subtitle">Signin to start your session</h4>
-	  <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post" >
+	  <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST" >
 	    <label class="form-label">Username: <span class="required">*</span></label>
 	    <input type="text" name="username" placeholder="Enter username" value="" id="user">
 	    <span class="invalid-feedback"><?php echo $username_err; ?></span>
@@ -26,7 +26,7 @@
 	    <br>	
 	    <br> 
 
-	    <input type="submit" name="Login"  value="Login">
+	    <input type="submit" name="submit"  value="Login">
 	    <br>
 	           <?php 
         if(!empty($login_err)){

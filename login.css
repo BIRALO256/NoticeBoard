@@ -3,12 +3,9 @@ body{
 	padding: 0;
 	background: url("mose.jpg");
 	background-size: cover;
-	background-position: fixed ;*/
-	background-color: ;
+	background-position: fixed ;
+	background-color: '';
 	font-family: sans-serif;
-
-
-
 }
 
 .login{
@@ -96,7 +93,9 @@ border: none;
 	text-align: center;
 }
 
-
+.form-label{
+	color:'#fff',
+}
 
 .invalid-feedback{
 	color: red;
