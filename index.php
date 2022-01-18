@@ -1,79 +1,48 @@
-<?php
-  if (!empty($_GET['q'])) {
-    switch ($_GET['q']) {
-      case 'info':
-        phpinfo(); 
-        exit;
-      break;
-    }
-  }
-?>
+<?php include('authenticate.php') ?>
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Muwaguzi's server</title>
+<head> 
+	<meta="viewport" content="width=device-width, initial-scale=1">
+	<title>notic
+	<meta charset="utf-8">
+	<meta name board</title>
+	<link rel="stylesheet" type="text/css" href="login.css">
+	<script type="text/javascript" src="validation.js" ></script>
+</head>
+<body>
 
-        <link href="https://fonts.googleapis.com/css?family=Karla:400" rel="stylesheet" type="text/css">
+<div class="login">
+	<img src="log.jpg" class="log"  >
+	<br>
+	<h4 class="subtitle">Signin to start your session</h4>
+	  <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post" >
+	    <label class="form-label">Username: <span class="required">*</span></label>
+	    <input type="text" name="username" placeholder="Enter username" value="" id="user">
+	    <span class="invalid-feedback"><?php echo $username_err; ?></span>
 
-        <style>
-            html, body {
-                height: 100%;
-            }
+         <br> 
+	    <label class="form-label">Password: <span class="required">*</span></label>
+	    <input type="Password" name="password" placeholder="Enter Password" value="" id="Password">
+	     <span class="invalid-feedback"><?php echo $password_err; ?></span>
+	    <br>	
+	    <br> 
 
-            body {
-                margin: 0;
-                padding: 0;
-                width: 100%;
-                display: table;
-                font-weight: 100;
-                font-family: 'Karla';
-            }
+	    <input type="submit" name="Login"  value="Login">
+	    <br>
+	           <?php 
+        if(!empty($login_err)){
+            echo '<div><span class="invalid-feedback">' . $login_err . '</span></div>';
+        }        
+        ?>
+	    <br>
+	     <a href="#####">Forgot pasword?</a>
+	    <br>
+	    <br>
+	    <a href="register.php">Don't have acount</a>
 
-            .container {
-                text-align: center;
-                display: table-cell;
-                vertical-align: middle;
-            }
+	  </form>
+	
+</div>
 
-            .content {
-                text-align: center;
-                display: inline-block;
-            }
-
-            .title {
-                font-size: 96px;
-            }
-
-            .opt {
-                margin-top: 30px;
-            }
-
-            .opt a {
-              text-decoration: none;
-              font-size: 150%;
-            }
-            
-            a:hover {
-              color: red;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="container">
-            <div class="content">
-                <div class="title" title="Laragon">Muwaguzi's server</div>
-     
-                <div class="info"><br />
-                      <?php print($_SERVER['SERVER_SOFTWARE']); ?><br />
-                      PHP version: <?php print phpversion(); ?>   <span><a title="phpinfo()" href="/?q=info">info</a></span><br />
-                      Document Root: <?php print ($_SERVER['DOCUMENT_ROOT']); ?><br />
-
-                </div>
-                <div class="opt">
-                  <div><a title="Getting Started" href="http://laragon.org/?q=getting-started">Getting Started</a></div>
-                </div>
-            </div>
-
-        </div>
-    </body>
+</body>
 </html>
