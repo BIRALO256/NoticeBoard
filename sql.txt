@@ -1,0 +1,7 @@
+CREATE TABLE items_on_sale (
+    id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(50) NOT NULL UNIQUE,
+    quantity double NOT NULL,
+    cost double NOT NULL,
+    created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+);

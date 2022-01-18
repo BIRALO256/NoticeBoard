@@ -1,0 +1,114 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url("mose.jpg");
+	background-size: cover;
+	background-position: fixed ;*/
+	background-color: ;
+	font-family: sans-serif;
+
+
+
+}
+
+.login{
+	width: 320px;
+	height: 420px;
+	background: #fff;
+	color: #fff;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 30px 30px;
+}
+.log{
+
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	position: absolute;
+	top: -14%;
+	left: 30%;
+}
+h1{
+
+	text-align: center;
+	margin: 0;
+	font-size: 20px;
+}
+.login input{
+	width: 100%;
+	margin-bottom: 20px ;
+  
+
+}
+/*.login input [type="text"], input[type="Password"]
+{
+
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	outline: none;
+	height: 40px;
+}*/
+.login input[type="submit"]
+{
+border: none;
+	background: red;
+	outline: none;
+	height: 35px;
+	color: yellow;
+	font-size: 20px;
+	border-radius: 15px;
+}
+.login input[type="submit"]:hover
+{
+  cursor: pointer;
+  background: green;
+  color: blue;
+}
+.login a{
+	text-decoration: none;
+	font-size: 12px;
+	line-height: 19px;
+	color: darkgrey;
+}
+.login a:hover
+{
+	color: lightyellow;
+}
+.items{
+	text-align: center;
+	color: white;
+	padding-bottom: -10px;
+}
+.jovic{
+	color: green;
+
+}
+.jovic2{
+
+	text-align: left;
+}
+.jovic3{
+	text-align: center;
+}
+
+
+
+.invalid-feedback{
+	color: red;
+}
+input{
+	height: 30px;
+	font-size: 16px;
+}
+.subtitle{
+	text-align: center;
+	color: #000;
+}
+.required{
+	color: red;
+}

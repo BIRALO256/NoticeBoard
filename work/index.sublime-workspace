@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"th",
+				"thead"
+			],
+			[
+				"quan",
+				"quantity"
+			],
+			[
+				"a",
+				"align-content"
+			],
+			[
+				"al",
+				"align-self"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"inline-",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"border-ri",
+				"border-right"
+			],
+			[
+				"h",
+				"hr"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"darkgr",
+				"darkgreen"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"border-",
+				"border-style"
+			],
+			[
+				"bo",
+				"border-left"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"de",
+				"delayVar"
+			],
+			[
+				"pe",
+				"pre-line"
+			],
+			[
+				"margin-t",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"li",
+				"link"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build: Cancel"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/laragon/www/work/register.php",
+		"/C/Users/user/Desktop/examzzs practice/notic.board/home.php",
+		"/C/laragon/www/work/config.php",
+		"/C/Users/user/Downloads/login.php",
+		"/C/laragon/www/work/login.css",
+		"/C/laragon/www/work/notice.css",
+		"/C/laragon/www/work/index.php",
+		"/C/laragon/www/work/public.php",
+		"/C/laragon/www/work/form.php",
+		"/C/laragon/www/work/authenticate.php",
+		"/C/Users/user/Desktop/individual work iip/notice.html",
+		"/C/Users/user/Desktop/individual work iip/public.html",
+		"/C/Users/user/Desktop/individual work iip/validation.js",
+		"/C/Users/user/Desktop/individual work iip/form.html",
+		"/C/Users/user/Desktop/html practice/index.html/biralo.html",
+		"/C/Users/user/Desktop/individual work iip/notice.css",
+		"/C/Users/user/Desktop/New folder (3)/complaints/mainpage.php",
+		"/C/Users/user/Desktop/New folder (3)/complaints/main.css",
+		"/C/Users/user/Desktop/examzzs practice/exams.html",
+		"/C/Users/user/Desktop/New folder (3)/complaints_management/Adminmainpage.php",
+		"/C/Users/user/Desktop/New folder (3)/complaints_management/index.php",
+		"/C/Users/user/Desktop/New folder (3)/complaints_management/marks.php",
+		"/C/Users/user/Desktop/New folder (3)/complaints_management/markslist.php",
+		"/C/Users/user/Desktop/New folder (3)/complaints_management/HoD.php",
+		"/C/Users/user/Desktop/New folder (3)/complaints_management/connection.php",
+		"/C/Users/user/Desktop/New folder (3)/complaints_management/Administrationlogin.php",
+		"/C/Users/user/Desktop/New folder (3)/complaints_management/lecturerlogin.php",
+		"/C/Users/user/Desktop/New folder (3)/complaints_management/studentlogin.php",
+		"/C/Users/user/Desktop/New folder (3)/complaints_management/mainpage.php",
+		"/C/Users/user/Desktop/New folder (3)/complaints_management/main.css",
+		"/C/Users/user/Desktop/New folder (3)/complaints_management/complaints.php",
+		"/C/Users/user/Desktop/html practice/index.html/style1.css",
+		"/C/Users/user/Desktop/html practice/index.html/style.css",
+		"/C/Users/user/Desktop/second semester/introduction to intenert programing/course work/complaints_management/mainpage.php",
+		"/C/Users/user/Desktop/second semester/introduction to intenert programing/course work/complaints_management/Administrationlogin.php",
+		"/C/Users/user/Desktop/second semester/introduction to intenert programing/course work/complaints_management/main.css",
+		"/C/Users/user/Desktop/html practice/grid.css",
+		"/C/Users/user/Desktop/html practice/grid.html",
+		"/C/Users/user/Desktop/php/php/jovic.php",
+		"/C/Users/user/Desktop/MUWANUZI JOVIC BIRALO COURSE WORK/ascii.css",
+		"/C/Users/user/Desktop/MUWANUZI JOVIC BIRALO COURSE WORK/ascii.html",
+		"/C/Users/user/Desktop/MUWANUZI JOVIC BIRALO COURSE WORK/myanimation.js",
+		"/C/Users/user/Desktop/MUWANUZI JOVIC BIRALO COURSE WORK/animations.js",
+		"/C/Users/user/Desktop/MUWANUZI JOVIC BIRALO COURSE WORK/ascii.js",
+		"/C/Users/user/Desktop/html practice/css/index.html",
+		"/C/Users/user/Desktop/javascript applications/app1.css",
+		"/C/Users/user/Desktop/work/ascii.js",
+		"/C/Users/user/Desktop/work/ascii.css",
+		"/C/Users/user/Desktop/work/ascii.html",
+		"/C/Users/user/Desktop/work/myanimation.js",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/Users/user/Desktop/work/yanimation.txt",
+		"/C/Users/user/Desktop/html practice/index.html/index.html",
+		"/C/Users/user/Desktop/html practice/index.html/css 2",
+		"/C/Users/user/Desktop/html practice/index.html/css",
+		"/C/Users/user/Desktop/html practice/html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
